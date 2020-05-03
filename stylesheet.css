@@ -63,13 +63,15 @@ header{
   padding: 70px 5px;
   float: left;
   text-align: center;
-
+  transition: 0.5s;
+  position: relative;
 }
 
 .image:hover{
   cursor: pointer;
+  transform: translateY(-30px);
+  z-index: 50;
 }
-
 
 
 .text a{
