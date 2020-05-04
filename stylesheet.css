@@ -57,7 +57,7 @@ header{
   width: 100%;
 }
 
-.top-wrapper h1{
+.heading h1{
   font-family: serif;
   font-size: 50px;
   letter-spacing: 2px;
@@ -125,12 +125,26 @@ header{
 
   .info{
     padding-right: 5px;
+    font-size: 20px;
+    padding-top: 20px;
+  }
+
+  .main{
+    background-image: url(https://lh3.googleusercontent.com/Oe53cT99HDlWfFRQg2PobfTiuxE8spgt26mbuhLg2a1iwObBed5JU9xBqdN4pEB03AU0q13PBowoSH2G3uiw5NaUK7DSaeBPZJBI9-vhrCD9Md_w-cfiBYyx5sjDCSNCvR5MEwC66Apccqin_pnWAcgPAcQZf-oKtudbWdKgdL2ZGwNHmuQ9VZyZ3Spl-MHvRRDVJMKWmLjf6UsaeTDb8hFXXMS3oNl_2K1vQMS0_XGW3cqbOjIMVC0AoqughSYbirzE8Zee4hBisA_yAqHGSiGdv72f7lSoG07DBEg8ZYroGCEDa-4-JNVdAXQWVf_oxGpuhBe-yywNvoa_PSTSI8T-yuBJ9Kh3s9zko77jiyXYDQOOJNhKm9ns7qXPoCpnhwRUwrYukXyI5szWhVtWFaL2AkuuosMwKUpZz4bE_DxUQlbrMmuKOdkoOWZMw1byay4vwq0ciVRyFbtcvKRfwiVT0YUQObeOS-kEyc7Krz7GGtTImTLn-FsKUHmET6LZ_YLXgPhYYoKTIxvUQQDXPmRFHJ9dGwMvysgBCdHkAyXQasCz3-NieblpKrjpi1LxRnihwR6gx8SuqF-1RsbGG2mcY9bcTckxWCK8xi5vWzE9OvCf3QUBwmliIEDbaTP3JRGIrkxBvFjumakfoNDu7oAVpQhRmDe9HMYhdPGefKmelzi4XHXx_3nSCXtMYt3WLJBfbpPcPZoRfcQscOo_fDZ08ncSB7cdm2X6O7ObCv3Q6rExmr3TVoa_=w986-h657-no);
+    height: 100%;
+    width: 100%;
+  }
+
+  .top-wrapper{
+    padding-top: 70%;
+  }
+
+  .heading h1{
     font-size: 30px;
-    padding-top: 55px;
   }
 
   header{
-    height: 100px;
+    height: 50px;
   }
 
   .image{
